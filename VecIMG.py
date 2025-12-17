@@ -1,12 +1,10 @@
 # imports needed for the assignment
 import numpy as np
 from PIL import Image
-# import copy (unused)
 import pickle
 import matplotlib.pyplot as plt
 
 class ImageProcessor():
-    # Your methods here
 
     def __init__(self):
         self.image = None
